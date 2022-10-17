@@ -2,6 +2,11 @@
     background-color: #3D8361;
 }
 
+#footer a{
+    color:#EEF2E6 ;
+
+}
+
 a{
     text-decoration: none;
 }
@@ -24,4 +29,14 @@ a{
     right: 0;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
+}
+
+#carousel .overlay .container, 
+#carousel .overlay .row{
+    margin-top: 22vh;
+}
+
+.btn-camilo{
+    background-color: #1C6758;
+    color: #EEF2E6;
 }
