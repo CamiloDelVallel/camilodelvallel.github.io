@@ -41,8 +41,8 @@ a{
     color: #EEF2E6;
 }
 
-.navbar-brand{
-    width: 100%;
+.container-fluid{
+    width: 80vw;
     background-color: #1C6758;
     text-align: center;
     color: #EEF2E6;
@@ -50,4 +50,12 @@ a{
 
 #subtitulo{
     background-color: #3D8361;
+}
+
+.sugerencia{
+    border-top: 1px solid black;
+}
+
+.input-group{
+    justify-content: center;
 }
