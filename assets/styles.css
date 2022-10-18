@@ -42,8 +42,7 @@ a{
 }
 
 .container-fluid{
-    width: 80vw;
-    background-color: #1C6758;
+    width: 100vw;
     text-align: center;
     color: #EEF2E6;
 }
@@ -58,4 +57,20 @@ a{
 
 .input-group{
     justify-content: center;
+}
+
+.navbar{
+    background-color: #1C6758 !important;
+}
+
+#row-navbar{
+    width: 100vw;
+}
+
+#mis-pags{
+    width: 100px;
+}
+
+ul{
+    align-items: center;
 }
